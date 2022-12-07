@@ -40,7 +40,6 @@ export class NavMenu extends Component
 // caso queira utlizar o boots trap use a parte baixo e apage tudo acima, e em ./index descomente
 // a importação da lib do bootstrap 
 
-// import React, { Component } from "react";
 // import { Navbar, NavbarBrand, NavbarToggler, NavItem, NavLink } from 'reactstrap';
 // import { Link } from "react-router-dom";
 
